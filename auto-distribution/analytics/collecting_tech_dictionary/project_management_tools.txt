@@ -1,0 +1,31 @@
+microsoft todo
+azure devops server
+yandextracker
+ms project
+miro
+mindmeister
+youtrack
+slack
+jetbrains teamcity
+azure devops
+monday.com
+telegram
+gitlab projects
+confluence
+ms teams
+zoom
+asana
+github
+coggle
+trello
+pivotaltracker
+unity
+gitlab
+jira
+basecamp
+todoist
+github projects
+notion
+bitbucket
+clickup
+evernote

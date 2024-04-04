@@ -1,0 +1,17 @@
+er
+aris
+use case
+archimate
+greenplum
+excel
+bpmn
+lucidchart
+sap
+sentry
+draw.io
+user story
+miro
+power bi
+selenium
+tableau
+uml

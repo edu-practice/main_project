@@ -1,0 +1,98 @@
+poetry
+cmake
+brackets
+jupyter-notebook
+atom
+visual studio code
+sourcetree
+godot
+postgresql
+datagrip
+intellij idea
+intelij idea
+react devtools
+maven
+phpmyadmin
+postman
+intelijidea
+google colab
+ms server
+kibana
+anaconda jupyter notebook
+qtcreator
+netbeans ide
+github cli
+vs code
+jupiter
+got
+qt
+anaconda
+qt creator
+visual stusio
+intellijidea
+jetbrains
+visual studio
+docker
+notepad++
+jupyter notebook
+jupyter lab
+jupyter
+vs
+gitlab
+webstrom
+ms visual studio
+googlecolab
+chrome devtools
+code
+intellij
+xcode
+eclipse
+azure
+vscode
+android studio
+idea
+phpstorm
+rider
+wakatime
+androidstudio
+visualstudio
+filezilla
+clion
+jupiter notebook
+github
+pucharm
+unity
+spyder
+google colaboratory
+vmwareworkstation
+colab
+svn
+pycharm
+yarn
+conda
+mssql server
+bash
+microsoft visual studio
+goland
+emacs
+wireframe
+redis
+webstorm
+git
+sublime text
+sublime
+vim
+matlab
+unreal engine
+intelijiidea
+rstudio
+collab
+make
+wsl
+kuka workvisual
+intellj idea
+perforce
+vsc
+nodejs
+bitbucket
+sublimetext

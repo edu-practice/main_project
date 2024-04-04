@@ -1,0 +1,15 @@
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
+# And except this
+!/*/
+!**.ipynb
+!projects_raw_data.xlsx
+!data_with_score_directions_roles.xlsx
+!DistributionrandomSamples_22autumn.xlsx
+!DistributionrandomSamples_23autumn.xlsx
+!distributed_projects_23autumn.xlsx
+!distributed_projects_22autumn.xlsx
+!scorred_students_22autumn.xlsx
+!scorred_students_23autumn.xlsx

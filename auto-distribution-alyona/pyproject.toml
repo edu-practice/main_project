@@ -1,0 +1,39 @@
+[tool.poetry]
+name = "auto-distribution-alyona"
+version = "0.1.0"
+description = ""
+authors = ["st073575"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9.8"
+nitpick = "^0.34.0"
+pre-commit = "^3.4.0"
+pre-commit-hooks = "^4.5.0"
+snakemake = "^7.32.4"
+ipython = "^8.16.1"
+numpy = { version = "1.26.1", python = ">=3.9,<3.13" }
+pandas = "^2.1.1"
+pip = "^23.3.1"
+install = "^1.3.5"
+streamlit = "^1.28.2"
+openpyxl = "^3.1.2"
+plotly = "^5.18.0"
+
+
+[tool.poetry.dependencies.pylint]
+version = "*"
+optional = true
+
+[tool.poetry.extras]
+lint = ["pylint"]
+
+[tool.poetry.group.dev.dependencies]
+ipython = "^8.16.1"
+ipykernel = "^6.25.2"
+
+[tool.black]
+line-length = 120
+[build-system]
+requires = ["poetry-core", "poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

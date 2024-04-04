@@ -1,0 +1,27 @@
+cd
+decker
+iis manager
+cl
+docker-compose
+gitactions
+docker
+aws cloudformation
+gitlab-ci
+maven
+gradle
+travis
+jenkins
+travis ci
+gitlab ci
+gitea
+gitlabci
+gitlab
+microsoft azure
+podman
+openshift
+github actions
+kubernetes
+s
+cicleci
+travis cl
+teamcity
